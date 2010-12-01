@@ -1,0 +1,26 @@
+body {
+    font-family: Verdana, Helvetica, sans-serif;
+    background-color: #000000;
+    text-align: center;
+}
+
+h1 {
+    margin: 0; padding: 0em;
+    color: #dd3333;
+}
+
+.subheading {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    font-size: 0.8em;
+    color: #ffd700;
+}
+
+.panel {
+    margin: 0px auto;
+    width: 600px;
+}
+
+.panel h3 { margin: 0; padding: 0.4em; text-align: center; }
+
+.panel-body { margin: 0px; padding: 1em; text-align: center; }
