@@ -3,7 +3,7 @@ Secret Santa Pickler
 
 A simple web app that draws names for Secret Santa-style gift exchanges. Supports exceptions for each participant, keeps picks secret, and doesn't require entering any email addresses or signing up.
 
-It is deployed as a Google App Engine site at http://secretsantapickler.appspot.com/
+It is deployed as a Google App Engine site at <http://secretsantapickler.appspot.com/>
 
 Image Credits
 -------------
